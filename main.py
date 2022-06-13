@@ -26,6 +26,7 @@ async def main():
             )
 
 
+    print(f"generated {len(cal.events)} events")
     with open('thewavecal.ics', 'w') as f:
         f.write(str(cal))
 

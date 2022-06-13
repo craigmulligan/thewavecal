@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timezone
 
 async def get_data(browser, url):
     """
@@ -28,8 +28,10 @@ async def get_data(browser, url):
             for time in times:
                 time_input = await time.querySelector("input[type='submit']")
                 t = await page.evaluate('(element) => element.getAttribute("value")', time_input)
+                dt = datetime.strptime(f"{date} {t}", FORMAT)
+                dt = dt.replace(tzinfo=timezone.utc)
                 events.append(
-                    datetime.strptime(f"{date} {t}", FORMAT),
+                    dt,
                 )
 
     return events
