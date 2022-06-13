@@ -1,9 +1,13 @@
+import asyncio
 from wavecal import get_data
+
 from datetime import timedelta
+from pyppeteer import launch
 from ics import Calendar, Event
 
-if __name__ == "__main__":
+async def main():
     host = "https://bookings.thewave.com/twb_b2c/" 
+    browser = await launch(headless=False, args=['--no-sandbox'])
     event_types = [
             {"name": "Expert Barrels", "description": "A whole session dedicated to our most popular barrel setting. Powerful waves with consistent, fun to navigate barrels", "path": "genericevent.html?event=TWB.EVN17"},
             {"name": "Expert Turns", "description": "A fast and challenging session, full of our most powerful turning waves, to test your performance turns", "path": "genericevent.html?event=TWB.EVN10" },
@@ -14,7 +18,7 @@ if __name__ == "__main__":
     cal = Calendar()
 
     for event_type in event_types:
-        for start in get_data(host + event_type['path']):
+        for start in await get_data(browser, host + event_type['path']):
             end = start + timedelta(hours=1)
             
             cal.events.add(
@@ -25,4 +29,7 @@ if __name__ == "__main__":
     with open('thewavecal.ics', 'w') as f:
         f.write(str(cal))
 
-    print(str(cal))
+    await browser.close()
+
+
+asyncio.get_event_loop().run_until_complete(main())

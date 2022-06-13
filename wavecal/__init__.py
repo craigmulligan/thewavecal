@@ -1,36 +1,35 @@
-import requests
 from datetime import datetime
-from bs4 import BeautifulSoup, NavigableString
 
-
-def get_data(url):
+async def get_data(browser, url):
     """
         <div class="d-none daybox" data-available="0" data-day="06/13/2022"
             data-generaladmission="false" data-totalavailable="24">
 
     """
     FORMAT = '%m/%d/%Y %H:%M %p'
-    page = requests.get(url)
 
-    page.raise_for_status()
-    soup = BeautifulSoup(page.content, "html.parser")
-
-    elem = soup.find(id='calendar-dp')
-
-    if elem is None or isinstance(elem, NavigableString):
-        raise Exception("couldn't find calendar element")
+    print("getting page")
+    page = await browser.newPage()
+    await page.goto(url, waitUntil='networkidle2')
 
     events = [] 
+    for i in range(3):
+        if i > 0:
+            datepicker = await page.querySelector(".datepicker")
+            elem = await datepicker.querySelector(".next")
+            await elem.click()
 
-    for child in elem.children:
-        if not isinstance(child, str):
-            date = child['data-day']
-            for grandchild in child.find_all(class_="calendar-time"): 
-                for gc in grandchild.find_all('input', type='submit'): 
-                    t = gc['value']
-                    events.append(
-                        datetime.strptime(f"{date} {t}", FORMAT),
-                    )
+        cal = await page.querySelector("#calendar-dp") 
+        days = await cal.querySelectorAll(".daybox")
+        for day in days:
+            date = await page.evaluate('(element) => element.getAttribute("data-day")', day)
+            times = await day.querySelectorAll(".calendar-time")
+
+            for time in times:
+                time_input = await time.querySelector("input[type='submit']")
+                t = await page.evaluate('(element) => element.getAttribute("value")', time_input)
+                events.append(
+                    datetime.strptime(f"{date} {t}", FORMAT),
+                )
 
     return events
-          
