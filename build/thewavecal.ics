@@ -2,1214 +2,1137 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220621T110000Z
-DTSTART:20220621T100000Z
-SUMMARY:Advance Surf
-UID:dc1a9535-3206-42f8-adb2-511df2d96bc6@dc1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220705T090000Z
-DTSTART:20220705T080000Z
-SUMMARY:Advanced Surf Plus
-UID:18bbf591-7b6b-4efd-8801-3b537455f8a5@18bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220630T110000Z
-DTSTART:20220630T100000Z
-SUMMARY:Expert Turns
-UID:84ef423f-4008-48b7-840d-2e251da229fd@84ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220624T090000Z
-DTSTART:20220624T080000Z
-SUMMARY:Advance Surf
-UID:8107438a-9636-4931-bd74-85d946058f3b@8107.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
 DTEND:20220621T080000Z
 DTSTART:20220621T070000Z
-SUMMARY:Advanced Surf Plus
-UID:bf5a7bb9-3422-4753-9520-01824cbadf33@bf5a.org
+SUMMARY:Expert Barrels
+UID:3a1b80bc-db55-44d0-8c95-0dd01b84bbfe@3a1b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220628T080000Z
-DTSTART:20220628T070000Z
-SUMMARY:Advanced Surf Plus
-UID:91df885a-f8e9-496d-bf68-dcf1ad863e57@91df.org
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220624T070000Z
+DTSTART:20220624T060000Z
+SUMMARY:Expert Barrels
+UID:8501467c-14b2-4303-93c0-80eb403aa029@8501.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220614T080000Z
-DTSTART:20220614T070000Z
-SUMMARY:Advanced Surf Plus
-UID:61fe04f9-37ef-4d07-bb76-ac1d8576274e@61fe.org
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220619T070000Z
+DTSTART:20220619T060000Z
+SUMMARY:Expert Turns
+UID:85545967-8c5a-433e-8ef8-17ccb2fda7ea@8554.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220620T070000Z
+DTSTART:20220620T060000Z
+SUMMARY:Expert Barrels
+UID:7b578804-4c4a-4fe4-b797-7b7bf7c7550d@7b57.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220625T090000Z
-DTSTART:20220625T080000Z
-SUMMARY:Advance Surf
-UID:e81c7564-d234-4662-88eb-9fc657abb707@e81c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220616T090000Z
-DTSTART:20220616T080000Z
-SUMMARY:Expert Barrels
-UID:d0252410-7e59-4e4e-8554-5127c8792576@d025.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220620T090000Z
-DTSTART:20220620T080000Z
-SUMMARY:Expert Turns
-UID:61e7edf0-177a-4806-87eb-b8a997147ad3@61e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220623T090000Z
-DTSTART:20220623T080000Z
-SUMMARY:Expert Turns
-UID:414eb27c-46bd-4d0a-9d55-1a12102e57f1@414e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220617T090000Z
-DTSTART:20220617T080000Z
-SUMMARY:Advance Surf
-UID:53dc3608-58f1-4a8b-b0a1-88f417005a95@53dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220621T110000Z
-DTSTART:20220621T100000Z
-SUMMARY:Advance Surf
-UID:1fa6f55b-b6b2-4c0c-97d1-1925c0cea558@1fa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220627T090000Z
-DTSTART:20220627T080000Z
-SUMMARY:Expert Barrels
-UID:c16bbbfe-3dab-49fc-bd47-a2e938ab51f1@c16b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220628T090000Z
-DTSTART:20220628T080000Z
-SUMMARY:Expert Turns
-UID:65a78e44-445f-4235-b18f-f3df683e1eff@65a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220620T110000Z
-DTSTART:20220620T100000Z
-SUMMARY:Advance Surf
-UID:9400dd24-4613-497d-9578-a65fd378e555@9400.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220616T110000Z
-DTSTART:20220616T100000Z
-SUMMARY:Expert Turns
-UID:9171984e-d787-49a8-9359-a30cccb7d389@9171.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220721T080000Z
-DTSTART:20220721T070000Z
-SUMMARY:Advanced Surf Plus
-UID:b2c65fe3-4653-4e96-89f8-a031054f325c@b2c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220616T110000Z
-DTSTART:20220616T100000Z
-SUMMARY:Expert Turns
-UID:70850fe0-d9f8-4ec8-8833-11b246b45ed7@7085.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220616T090000Z
-DTSTART:20220616T080000Z
-SUMMARY:Expert Barrels
-UID:aa0de246-301b-47b3-b455-a6848f070c27@aa0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220628T090000Z
-DTSTART:20220628T080000Z
-SUMMARY:Expert Turns
-UID:469d6632-f443-4479-9b39-781463883a09@469d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220716T080000Z
-DTSTART:20220716T070000Z
-SUMMARY:Advanced Surf Plus
-UID:ed6a25e6-62d5-44ce-a3fc-93931cf0f94e@ed6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220625T080000Z
-DTSTART:20220625T070000Z
-SUMMARY:Expert Turns
-UID:243ce285-9d19-44c7-994e-ef9a0969899f@243c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220630T090000Z
-DTSTART:20220630T080000Z
-SUMMARY:Expert Barrels
-UID:37ea335f-977c-4fc3-9563-7baba0cf332f@37ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
 DTEND:20220618T080000Z
 DTSTART:20220618T070000Z
-SUMMARY:Expert Barrels
-UID:fb3c2e1c-164d-410e-9d93-d23fa5bb0e65@fb3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220718T080000Z
-DTSTART:20220718T070000Z
-SUMMARY:Advanced Surf Plus
-UID:a927edc4-d22a-4734-8963-19ecde2fe3f6@a927.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220615T110000Z
-DTSTART:20220615T100000Z
 SUMMARY:Advance Surf
-UID:37d68536-950b-4991-8601-a7b7752846b4@37d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220629T080000Z
-DTSTART:20220629T070000Z
-SUMMARY:Expert Turns
-UID:336269de-0c6f-4f93-a125-8439e5cf9825@3362.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220728T080000Z
-DTSTART:20220728T070000Z
-SUMMARY:Advanced Surf Plus
-UID:4b7fb4ca-6e6f-4017-97e3-807c16cb49d5@4b7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220614T090000Z
-DTSTART:20220614T080000Z
-SUMMARY:Expert Turns
-UID:08ee5cc2-5b35-42e2-8ec0-00daa2947512@08ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220622T080000Z
-DTSTART:20220622T070000Z
-SUMMARY:Expert Turns
-UID:80803556-e5f6-4feb-b10a-cef020f5224a@8080.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220720T080000Z
-DTSTART:20220720T070000Z
-SUMMARY:Advanced Surf Plus
-UID:b97a2c7c-c334-4a67-951b-a7263ca183bc@b97a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220628T110000Z
-DTSTART:20220628T100000Z
-SUMMARY:Advance Surf
-UID:638daaf0-7b12-490a-9ef0-d75baf8aa817@638d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220621T110000Z
-DTSTART:20220621T100000Z
-SUMMARY:Advance Surf
-UID:2a27614e-114d-4826-b177-2abdad99d3a2@2a27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220622T090000Z
-DTSTART:20220622T080000Z
-SUMMARY:Advanced Surf Plus
-UID:1c97d683-6f13-46f4-b538-449214b70da6@1c97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220617T080000Z
-DTSTART:20220617T070000Z
-SUMMARY:Expert Turns
-UID:53287731-8da5-4a16-84f6-482abb0a285f@5328.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220620T090000Z
-DTSTART:20220620T080000Z
-SUMMARY:Expert Turns
-UID:e28a5387-72d4-44ca-b12e-961ce17f9fda@e28a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220630T020000Z
-DTSTART:20220630T010000Z
-SUMMARY:Advance Surf
-UID:dd7da6ee-ef01-4d7f-b9fd-06210f69fa99@dd7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220709T080000Z
-DTSTART:20220709T070000Z
-SUMMARY:Advanced Surf Plus
-UID:a3e9c662-11ef-4fe8-ad57-49400022ab75@a3e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220626T100000Z
-DTSTART:20220626T090000Z
-SUMMARY:Advance Surf
-UID:620773ed-db21-4038-a65e-943a8c486411@6207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220619T100000Z
-DTSTART:20220619T090000Z
-SUMMARY:Advance Surf
-UID:1c1433d2-a09a-4421-a953-970b6d5b5a0d@1c14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220626T100000Z
-DTSTART:20220626T090000Z
-SUMMARY:Advance Surf
-UID:a9b1a6fe-dbf5-464a-b023-bba46cd68e0a@a9b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220711T080000Z
-DTSTART:20220711T070000Z
-SUMMARY:Advanced Surf Plus
-UID:019cd263-9173-4532-8811-f2492c08afe1@019c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220627T110000Z
-DTSTART:20220627T100000Z
-SUMMARY:Advance Surf
-UID:d299a1eb-f942-420d-8703-b5f6e9603017@d299.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220624T090000Z
-DTSTART:20220624T080000Z
-SUMMARY:Advance Surf
-UID:41a3d730-08a1-46f3-af7e-34543f0a340f@41a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220623T020000Z
-DTSTART:20220623T010000Z
-SUMMARY:Advance Surf
-UID:b592856b-9a2e-4199-934f-5dd70e20ae3c@b592.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220725T090000Z
-DTSTART:20220725T080000Z
-SUMMARY:Advanced Surf Plus
-UID:b4a8c291-b955-4a9c-91a8-929185e610d2@b4a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220630T080000Z
-DTSTART:20220630T070000Z
-SUMMARY:Advanced Surf Plus
-UID:deec429d-1f33-4dd4-82a7-5fc245042325@deec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220616T020000Z
-DTSTART:20220616T010000Z
-SUMMARY:Advance Surf
-UID:8f4e9a8f-cc08-4db9-a7f0-d6c3c31bc9a7@8f4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220719T090000Z
-DTSTART:20220719T080000Z
-SUMMARY:Advanced Surf Plus
-UID:c69658e5-6e96-4495-b170-24dd556d82eb@c696.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220630T020000Z
-DTSTART:20220630T010000Z
-SUMMARY:Advance Surf
-UID:841053ec-33f0-4477-992f-a820bd55c1dc@8410.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220619T100000Z
-DTSTART:20220619T090000Z
-SUMMARY:Advance Surf
-UID:2af98c30-8483-43ec-a091-0ce04443bffc@2af9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220620T110000Z
-DTSTART:20220620T100000Z
-SUMMARY:Advance Surf
-UID:9b09e35c-3d6c-4a1e-9d4d-18a23daaaa65@9b09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220625T090000Z
-DTSTART:20220625T080000Z
-SUMMARY:Advance Surf
-UID:ae0b290e-3aef-47ca-aa8f-dcc8bace6b66@ae0b.org
+UID:6fc8c7fb-2826-4de5-9fa4-57162c0d8e48@6fc8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220619T080000Z
-DTSTART:20220619T070000Z
+DTEND:20220624T070000Z
+DTSTART:20220624T060000Z
 SUMMARY:Expert Barrels
-UID:ab38755f-5c0c-4614-8d58-a5f4ec2d7ec7@ab38.org
+UID:c417ae95-7761-4db3-98f2-dc8d86513303@c417.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220704T080000Z
-DTSTART:20220704T070000Z
-SUMMARY:Advanced Surf Plus
-UID:3580c969-ea85-48e6-a3d6-9c11ea999d48@3580.org
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220627T070000Z
+DTSTART:20220627T060000Z
+SUMMARY:Expert Turns
+UID:d63f7d80-8b61-4448-a704-49fad5a9c3e8@d63f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220618T090000Z
-DTSTART:20220618T080000Z
+DTEND:20220615T100000Z
+DTSTART:20220615T090000Z
 SUMMARY:Advance Surf
-UID:4f5aa97f-1413-4c22-b398-164a30e5bc8b@4f5a.org
+UID:885db2cf-0f38-40c4-bb68-9c6a1ee56d6d@885d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220625T080000Z
-DTSTART:20220625T070000Z
-SUMMARY:Expert Turns
-UID:60906efc-07ea-4159-a5f7-f464eeadfb57@6090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220623T090000Z
-DTSTART:20220623T080000Z
-SUMMARY:Expert Turns
-UID:f4f8f15d-fe92-42b5-a0a1-00237cb494e9@f4f8.org
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220630T080000Z
+DTSTART:20220630T070000Z
+SUMMARY:Expert Barrels
+UID:bdba2a4f-0a16-4c67-9302-e85e380607cf@bdba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220623T070000Z
+DTSTART:20220623T060000Z
+SUMMARY:Advanced Surf Plus
+UID:ffe91080-0778-470f-877e-aaf8f9b13de0@ffe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220614T100000Z
+DTSTART:20220614T090000Z
+SUMMARY:Advance Surf
+UID:096a3d45-0e43-4f55-a448-35e0238e8482@096a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220622T080000Z
+DTSTART:20220622T070000Z
+SUMMARY:Advanced Surf Plus
+UID:71684971-68ce-4bfe-aeae-f0081b516f34@7168.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220630T070000Z
+DTSTART:20220630T060000Z
+SUMMARY:Advanced Surf Plus
+UID:b19e8a78-0b6b-4b52-bf33-07f0134296fe@b19e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220630T070000Z
+DTSTART:20220630T060000Z
+SUMMARY:Advanced Surf Plus
+UID:3d681743-4a72-45c2-a463-b20a1f273e8e@3d68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220629T100000Z
+DTSTART:20220629T090000Z
+SUMMARY:Advance Surf
+UID:47865ffe-af30-4a9b-b551-1b2a77a9ea2c@4786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220617T070000Z
+DTSTART:20220617T060000Z
+SUMMARY:Expert Turns
+UID:a583b2c0-f8eb-4ca8-8de3-83a11f70e3c3@a583.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220623T080000Z
+DTSTART:20220623T070000Z
+SUMMARY:Expert Turns
+UID:69b83de8-c1bd-4a99-ae60-d2a498a83d15@69b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220618T080000Z
+DTSTART:20220618T070000Z
+SUMMARY:Advance Surf
+UID:58569273-58db-434f-8fbb-a3bb349e0fc3@5856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220615T080000Z
+DTSTART:20220615T070000Z
+SUMMARY:Advanced Surf Plus
+UID:b1414ebc-8df7-4af6-a54c-4f2a3d90e2da@b141.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220616T100000Z
+DTSTART:20220616T090000Z
+SUMMARY:Expert Turns
+UID:18c4467f-1c51-4419-9079-20e908867655@18c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220630T080000Z
+DTSTART:20220630T070000Z
+SUMMARY:Expert Barrels
+UID:b675a236-49da-4c67-baed-f480a288b50e@b675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220615T070000Z
+DTSTART:20220615T060000Z
+SUMMARY:Expert Barrels
+UID:26cac1ac-476b-419e-becf-976f05534964@26ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220622T080000Z
+DTSTART:20220622T070000Z
+SUMMARY:Advanced Surf Plus
+UID:026374ed-a1f8-47c5-9dd3-ee6bcb8c9196@0263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220626T070000Z
+DTSTART:20220626T060000Z
+SUMMARY:Expert Barrels
+UID:9c68a058-ac5f-4b3f-841a-e4adbdec107d@9c68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220627T080000Z
+DTSTART:20220627T070000Z
+SUMMARY:Advanced Surf Plus
+UID:b079b068-d6d2-49b0-9de7-a2f9880bb1fc@b079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220617T080000Z
+DTSTART:20220617T070000Z
+SUMMARY:Advanced Surf Plus
+UID:e9fcdcdd-2122-48d7-9c91-4c27f0fcae42@e9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220623T010000Z
+DTSTART:20220623T000000Z
+SUMMARY:Advance Surf
+UID:5e8d8bca-44ec-43e5-99eb-231ad5466334@5e8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220616T010000Z
+DTSTART:20220616T000000Z
+SUMMARY:Advance Surf
+UID:7b2fadbe-b01d-48e3-bb9d-61e8bdae5913@7b2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220616T070000Z
+DTSTART:20220616T060000Z
+SUMMARY:Advanced Surf Plus
+UID:a073afd2-6147-4f2a-af70-3e13416b5660@a073.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220629T080000Z
+DTSTART:20220629T070000Z
+SUMMARY:Advanced Surf Plus
+UID:55841844-0246-441e-bb6b-0ea4f69f3ef3@5584.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220625T070000Z
+DTSTART:20220625T060000Z
+SUMMARY:Expert Turns
+UID:15085dd9-2fd8-4d0a-bd4b-901b58ba440c@1508.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220627T080000Z
+DTSTART:20220627T070000Z
+SUMMARY:Expert Barrels
+UID:7798cd79-bbc7-44d4-afdc-362c80c6e706@7798.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220616T010000Z
+DTSTART:20220616T000000Z
+SUMMARY:Advance Surf
+UID:bbde81ac-c8d9-44ba-8264-a310a0adae59@bbde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220614T100000Z
+DTSTART:20220614T090000Z
+SUMMARY:Advance Surf
+UID:4d048508-e288-480b-aa75-2ddda51bedbf@4d04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220627T070000Z
+DTSTART:20220627T060000Z
+SUMMARY:Expert Turns
+UID:683ad9ba-a2a5-4660-a113-3488ac779354@683a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220620T100000Z
+DTSTART:20220620T090000Z
+SUMMARY:Advance Surf
+UID:cd8cba9e-a145-4114-9000-08bf1edd8d57@cd8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220621T100000Z
+DTSTART:20220621T090000Z
+SUMMARY:Advance Surf
+UID:2c95f99e-055c-4103-906e-36527646f15e@2c95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220622T080000Z
+DTSTART:20220622T070000Z
+SUMMARY:Advanced Surf Plus
+UID:7eef4a50-aa2d-43f6-8aa5-1d3868818870@7eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220630T010000Z
+DTSTART:20220630T000000Z
+SUMMARY:Advance Surf
+UID:4eda5918-9db0-49f3-8821-e2ebb0ec6dd4@4eda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220623T010000Z
+DTSTART:20220623T000000Z
+SUMMARY:Advance Surf
+UID:862cd17b-a03f-4e31-804e-146e9b0a00fe@862c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220619T090000Z
+DTSTART:20220619T080000Z
+SUMMARY:Advance Surf
+UID:eee347f2-1516-4f4c-b2d5-127cc7cc1252@eee3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220627T080000Z
+DTSTART:20220627T070000Z
+SUMMARY:Advanced Surf Plus
+UID:deb2e782-80fa-4f16-af5a-28a36f08d454@deb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220629T070000Z
+DTSTART:20220629T060000Z
+SUMMARY:Expert Turns
+UID:3bd05b47-3737-431f-8fa2-1b60c67c5e75@3bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220618T070000Z
+DTSTART:20220618T060000Z
+SUMMARY:Expert Barrels
+UID:7da9e361-cf68-41f0-b2f5-fd85566be2e2@7da9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220628T070000Z
+DTSTART:20220628T060000Z
+SUMMARY:Advanced Surf Plus
+UID:c5c623ae-65fe-4bc8-97e4-a9d91016a782@c5c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220628T100000Z
+DTSTART:20220628T090000Z
+SUMMARY:Advance Surf
+UID:82ca8587-b817-48e1-9da4-05414cdb66e5@82ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220625T080000Z
+DTSTART:20220625T070000Z
+SUMMARY:Advance Surf
+UID:489d49b1-f896-4cb7-b65e-e5c890cb9063@489d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220623T080000Z
+DTSTART:20220623T070000Z
+SUMMARY:Expert Turns
+UID:390a8daf-74f2-4254-8292-d622138bdc48@390a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220617T080000Z
+DTSTART:20220617T070000Z
+SUMMARY:Advanced Surf Plus
+UID:c7db1051-6f9c-4a37-ac31-289c6484479a@c7db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220620T080000Z
+DTSTART:20220620T070000Z
+SUMMARY:Advanced Surf Plus
+UID:1271c897-de67-4579-965f-5010bf5a249f@1271.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220626T070000Z
+DTSTART:20220626T060000Z
+SUMMARY:Expert Barrels
+UID:02f6e3b0-1005-45f0-afae-01771896114a@02f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220628T100000Z
+DTSTART:20220628T090000Z
+SUMMARY:Advance Surf
+UID:d1c8418b-fc89-402f-afc8-b870f3ea8332@d1c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220628T070000Z
+DTSTART:20220628T060000Z
+SUMMARY:Advanced Surf Plus
+UID:d2d26137-e609-4482-b79d-46d7cd2fb0a4@d2d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220623T100000Z
+DTSTART:20220623T090000Z
+SUMMARY:Expert Barrels
+UID:c65878ae-a9cd-4a4d-9220-2217b6e79ea8@c658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220616T010000Z
+DTSTART:20220616T000000Z
+SUMMARY:Advance Surf
+UID:89760e8e-899c-4442-97cf-05bda8886d44@8976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220626T070000Z
+DTSTART:20220626T060000Z
+SUMMARY:Advanced Surf Plus
+UID:c28a9ee5-e297-4145-a61a-1e26ab321e63@c28a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220619T070000Z
+DTSTART:20220619T060000Z
+SUMMARY:Expert Turns
+UID:0e2459c7-a217-491d-9770-b74d21b0e6e2@0e24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
 DTEND:20220621T080000Z
 DTSTART:20220621T070000Z
-SUMMARY:Advanced Surf Plus
-UID:1f45c87f-058d-4474-823c-d57a27202906@1f45.org
+SUMMARY:Expert Barrels
+UID:d3d42e51-29cb-48d9-a619-b41449b14208@d3d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220623T100000Z
+DTSTART:20220623T090000Z
+SUMMARY:Expert Barrels
+UID:5dc3ddd1-d1d2-40fa-9fbf-ee6b299cf4e6@5dc3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220618T090000Z
-DTSTART:20220618T080000Z
-SUMMARY:Advance Surf
-UID:21321558-8592-4730-9b7b-f436f77e424a@2132.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220626T100000Z
-DTSTART:20220626T090000Z
-SUMMARY:Advance Surf
-UID:517ace84-f37c-4eb6-bf16-08a9a2cb963d@517a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220615T080000Z
-DTSTART:20220615T070000Z
-SUMMARY:Expert Barrels
-UID:4f8b5791-5c6a-4a0c-887c-87da3cd87094@4f8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220622T080000Z
-DTSTART:20220622T070000Z
-SUMMARY:Expert Turns
-UID:5ed37e3c-2d23-4622-aa72-4d056d2a88ab@5ed3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220726T080000Z
-DTSTART:20220726T070000Z
-SUMMARY:Advanced Surf Plus
-UID:f61a48fa-189d-4739-b5c5-e1cf3526a09c@f61a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220614T110000Z
-DTSTART:20220614T100000Z
-SUMMARY:Advance Surf
-UID:0d538173-4c29-4d5e-ba7c-39ac650210f0@0d53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220616T080000Z
-DTSTART:20220616T070000Z
-SUMMARY:Advanced Surf Plus
-UID:641d4b29-f4fd-40e2-9eb9-66db574fdc2c@641d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220620T080000Z
-DTSTART:20220620T070000Z
-SUMMARY:Expert Barrels
-UID:eb33f9f7-0751-4f46-8269-5294015612b3@eb33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220623T080000Z
-DTSTART:20220623T070000Z
-SUMMARY:Advanced Surf Plus
-UID:720933c7-2508-4a17-895f-9d3e97dbbb35@7209.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220625T090000Z
-DTSTART:20220625T080000Z
-SUMMARY:Advance Surf
-UID:236aff69-93e4-4c65-8f2c-6580573f1bc2@236a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220622T110000Z
-DTSTART:20220622T100000Z
-SUMMARY:Advance Surf
-UID:658d9429-9ed8-4255-8693-cc7309168f30@658d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220625T080000Z
-DTSTART:20220625T070000Z
-SUMMARY:Expert Turns
-UID:ddcdd0dd-12a1-4fa7-a104-6af7507d3cd2@ddcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220615T080000Z
-DTSTART:20220615T070000Z
-SUMMARY:Expert Barrels
-UID:d461f1bb-f2e9-42aa-9093-702c7eeaea14@d461.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220627T090000Z
-DTSTART:20220627T080000Z
-SUMMARY:Advanced Surf Plus
-UID:69914eeb-7373-4e19-9f33-9382d9bdcef5@6991.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220627T090000Z
-DTSTART:20220627T080000Z
-SUMMARY:Expert Barrels
-UID:5fdc727e-1dac-4124-83a9-e2fc1ded88ce@5fdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220620T090000Z
-DTSTART:20220620T080000Z
-SUMMARY:Advanced Surf Plus
-UID:ba2de260-2c71-4634-815f-899b829b88f4@ba2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220619T080000Z
-DTSTART:20220619T070000Z
-SUMMARY:Expert Barrels
-UID:1bac90c7-5559-48e5-8894-546a6e5da20f@1bac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220630T110000Z
-DTSTART:20220630T100000Z
-SUMMARY:Expert Turns
-UID:26ac69d3-a078-4b64-9341-76b475f60059@26ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220617T090000Z
-DTSTART:20220617T080000Z
-SUMMARY:Advanced Surf Plus
-UID:5fa067b7-4620-4285-853f-42f745404a1a@5fa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220731T080000Z
-DTSTART:20220731T070000Z
-SUMMARY:Advanced Surf Plus
-UID:4f3c0447-3441-4109-b378-3cb83cd47b2f@4f3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220624T080000Z
-DTSTART:20220624T070000Z
-SUMMARY:Expert Barrels
-UID:0cced41d-4a31-497e-8b52-908a61cfac31@0cce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220623T090000Z
-DTSTART:20220623T080000Z
-SUMMARY:Expert Turns
-UID:d7bacf9c-5f25-4121-858f-d49741d29420@d7ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220614T090000Z
-DTSTART:20220614T080000Z
-SUMMARY:Expert Turns
-UID:7f0f42b7-6675-4875-817a-fa23a05411b7@7f0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220701T090000Z
-DTSTART:20220701T080000Z
-SUMMARY:Advanced Surf Plus
-UID:3ba2479b-886a-4854-be72-a59682a4ecb8@3ba2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220626T080000Z
-DTSTART:20220626T070000Z
-SUMMARY:Expert Barrels
-UID:98970e76-e892-435e-99d1-54270186dccd@9897.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220622T110000Z
-DTSTART:20220622T100000Z
-SUMMARY:Advance Surf
-UID:fc133c12-6e75-4b23-956b-1e1c7de7f081@fc13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220627T110000Z
-DTSTART:20220627T100000Z
-SUMMARY:Advance Surf
-UID:0dd79cc7-ae32-4170-a6db-ad29c301e71b@0dd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220622T080000Z
-DTSTART:20220622T070000Z
-SUMMARY:Expert Turns
-UID:a9c27a24-f80c-4141-b96e-ea1185303e06@a9c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220623T080000Z
-DTSTART:20220623T070000Z
-SUMMARY:Advanced Surf Plus
-UID:85d089ed-a630-42c1-87e5-a570d6499199@85d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220620T080000Z
-DTSTART:20220620T070000Z
-SUMMARY:Expert Barrels
-UID:7d8dcdea-26f1-4e71-bd6f-dd76f20a9e1f@7d8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220624T090000Z
-DTSTART:20220624T080000Z
-SUMMARY:Advanced Surf Plus
-UID:4f2334b3-600c-4286-a442-efb12ecc4417@4f23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220715T090000Z
-DTSTART:20220715T080000Z
-SUMMARY:Advanced Surf Plus
-UID:9b5530cd-ec3c-4772-ae04-144c36eb4973@9b55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220618T080000Z
-DTSTART:20220618T070000Z
-SUMMARY:Expert Barrels
-UID:b8562f5c-36de-49a5-a7b4-e2f3a60aafc9@b856.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220626T080000Z
-DTSTART:20220626T070000Z
-SUMMARY:Advanced Surf Plus
-UID:dba3f9a0-0a25-4375-84f8-3ddc710a7978@dba3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220624T090000Z
-DTSTART:20220624T080000Z
-SUMMARY:Advance Surf
-UID:ab1065d1-e829-4199-bebe-9bea781b7f73@ab10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
 DTEND:20220617T080000Z
 DTSTART:20220617T070000Z
-SUMMARY:Expert Turns
-UID:079d2d36-3c9e-4530-a3a7-394967d2ed6a@079d.org
+SUMMARY:Advance Surf
+UID:f1d1f1fd-4b1e-4067-bd27-99a2b790399c@f1d1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220708T090000Z
-DTSTART:20220708T080000Z
-SUMMARY:Advanced Surf Plus
-UID:0320400a-9e67-4f4f-b476-40ced66723b1@0320.org
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220629T100000Z
+DTSTART:20220629T090000Z
+SUMMARY:Advance Surf
+UID:1d9cec40-f96e-4c45-bb06-3cb8b78c0047@1d9c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220626T080000Z
-DTSTART:20220626T070000Z
-SUMMARY:Expert Barrels
-UID:40517124-ffc9-4dfa-bd68-18552ae6ff2d@4051.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220628T090000Z
-DTSTART:20220628T080000Z
-SUMMARY:Expert Turns
-UID:cf807b98-1e7c-47e9-ae83-aa271ff49e12@cf80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220623T020000Z
-DTSTART:20220623T010000Z
-SUMMARY:Advance Surf
-UID:3ef140de-5393-4993-bd9b-b3eaeef418b7@3ef1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220617T090000Z
-DTSTART:20220617T080000Z
-SUMMARY:Advance Surf
-UID:ad5ecf32-5715-4250-954e-242dc30e8804@ad5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220619T080000Z
-DTSTART:20220619T070000Z
-SUMMARY:Expert Turns
-UID:1d295ad1-08b8-4ee7-ac5a-ac0350bf7c58@1d29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220620T080000Z
-DTSTART:20220620T070000Z
-SUMMARY:Expert Barrels
-UID:6a7ed169-1808-4a27-acc5-27bf29f8a64d@6a7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220617T080000Z
-DTSTART:20220617T070000Z
-SUMMARY:Expert Turns
-UID:46e59bb0-7964-4e59-9688-d645e911ac08@46e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220616T090000Z
-DTSTART:20220616T080000Z
-SUMMARY:Expert Barrels
-UID:aeb99840-ca8c-4d49-9d6a-e959723cbbc7@aeb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220619T080000Z
-DTSTART:20220619T070000Z
-SUMMARY:Expert Turns
-UID:d097f169-d61d-4df3-8d72-c330c51b4b85@d097.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220621T090000Z
-DTSTART:20220621T080000Z
-SUMMARY:Expert Barrels
-UID:7ec1a249-21e3-4586-bd4e-4191a3895225@7ec1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220629T090000Z
-DTSTART:20220629T080000Z
-SUMMARY:Advanced Surf Plus
-UID:ba17c7a4-8cf1-4670-9980-17a052b15555@ba17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220623T110000Z
-DTSTART:20220623T100000Z
-SUMMARY:Expert Barrels
-UID:a09dd8c9-6917-4561-a098-b40c7f536b0a@a09d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220620T090000Z
-DTSTART:20220620T080000Z
-SUMMARY:Expert Turns
-UID:04c59a22-37ce-451e-98f1-3bee7e83d94e@04c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220616T110000Z
-DTSTART:20220616T100000Z
-SUMMARY:Expert Turns
-UID:77304c82-a007-4f05-9728-f89e185514a4@7730.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220620T110000Z
-DTSTART:20220620T100000Z
-SUMMARY:Advance Surf
-UID:890e17f8-b594-42f1-a169-67cb6f103ad9@890e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220626T080000Z
-DTSTART:20220626T070000Z
-SUMMARY:Advanced Surf Plus
-UID:791333cc-a21d-481b-9c86-1750d0cc60d9@7913.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220713T080000Z
-DTSTART:20220713T070000Z
-SUMMARY:Advanced Surf Plus
-UID:d510356b-40e5-4c91-9076-452745778b97@d510.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220621T090000Z
-DTSTART:20220621T080000Z
-SUMMARY:Expert Barrels
-UID:fd831c12-a693-4ec5-a80b-80b6de997fae@fd83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220629T090000Z
-DTSTART:20220629T080000Z
-SUMMARY:Advanced Surf Plus
-UID:4ca07fb9-0244-4c17-85c6-ec10b05a0e24@4ca0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220627T090000Z
-DTSTART:20220627T080000Z
-SUMMARY:Advanced Surf Plus
-UID:795cc35b-8c52-455c-9cfa-278a9d7b1cbb@795c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220619T080000Z
-DTSTART:20220619T070000Z
-SUMMARY:Expert Barrels
-UID:4e7b9174-f72f-428f-8731-48c944e1c9f3@4e7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220630T090000Z
-DTSTART:20220630T080000Z
-SUMMARY:Expert Barrels
-UID:80b01ef9-4ec8-48cd-aef1-fbc4b49e9f33@80b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220628T110000Z
-DTSTART:20220628T100000Z
-SUMMARY:Advance Surf
-UID:cb5c17c1-b5d2-437f-bd0b-48cccc4f2d1c@cb5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220627T110000Z
-DTSTART:20220627T100000Z
-SUMMARY:Advance Surf
-UID:8fbcc468-8561-420b-b39f-f0e4831905e7@8fbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220627T090000Z
-DTSTART:20220627T080000Z
-SUMMARY:Expert Barrels
-UID:aef1e87d-6ba1-4112-9f32-7fe445c0cb41@aef1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220629T080000Z
-DTSTART:20220629T070000Z
-SUMMARY:Expert Turns
-UID:55244f75-c65e-488d-b695-463e4acaab96@5524.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220616T020000Z
-DTSTART:20220616T010000Z
-SUMMARY:Advance Surf
-UID:adf3fd0a-4108-4ee7-859b-2aa1660e809f@adf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220614T080000Z
-DTSTART:20220614T070000Z
-SUMMARY:Advanced Surf Plus
-UID:be0e5b39-bfd1-4395-9b27-88df2d78b49d@be0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220627T080000Z
-DTSTART:20220627T070000Z
-SUMMARY:Expert Turns
-UID:01bf1b8d-43a9-46c2-a3fa-0d802722af23@01bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220629T110000Z
-DTSTART:20220629T100000Z
-SUMMARY:Advance Surf
-UID:54b7af3b-0dc2-44c6-8f18-23314aedd61b@54b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220619T080000Z
-DTSTART:20220619T070000Z
-SUMMARY:Expert Turns
-UID:3cb224f9-d0bd-4f17-bdcf-39e18fc39297@3cb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220614T110000Z
-DTSTART:20220614T100000Z
-SUMMARY:Advance Surf
-UID:4d7eec84-347d-4e74-8805-54e5cb2273c3@4d7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220629T110000Z
-DTSTART:20220629T100000Z
-SUMMARY:Advance Surf
-UID:f5e2aaf7-d332-4bac-ace4-f5be6457799f@f5e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220702T080000Z
-DTSTART:20220702T070000Z
-SUMMARY:Advanced Surf Plus
-UID:2e9b3fba-e872-4b12-91f4-30030dd62531@2e9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220729T090000Z
-DTSTART:20220729T080000Z
-SUMMARY:Advanced Surf Plus
-UID:ee5b144e-2ced-4616-a901-0cd9f638d245@ee5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220629T080000Z
-DTSTART:20220629T070000Z
-SUMMARY:Expert Turns
-UID:7680ddf7-c965-4c6b-9ceb-b23dccbf6fc7@7680.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220623T110000Z
-DTSTART:20220623T100000Z
-SUMMARY:Expert Barrels
-UID:b425a09d-41c6-4683-93eb-e17e3bbbcd29@b425.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220615T080000Z
-DTSTART:20220615T070000Z
-SUMMARY:Expert Barrels
-UID:01afa75a-4087-4804-afc5-d2385cb910ca@01af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220620T090000Z
-DTSTART:20220620T080000Z
-SUMMARY:Advanced Surf Plus
-UID:22f85431-190f-48be-9315-2e402a1e7ccb@22f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220615T110000Z
-DTSTART:20220615T100000Z
-SUMMARY:Advance Surf
-UID:870dc703-7a74-475f-b96e-e23306af2a29@870d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220614T090000Z
-DTSTART:20220614T080000Z
-SUMMARY:Expert Turns
-UID:291c6426-6d4c-4137-b0d1-9fceff567f8f@291c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220619T100000Z
-DTSTART:20220619T090000Z
-SUMMARY:Advance Surf
-UID:cacd1891-d4cb-4a90-b596-f3aa9d1f6dcc@cacd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220614T110000Z
-DTSTART:20220614T100000Z
-SUMMARY:Advance Surf
-UID:a975186a-6507-4955-a826-0b0dbc38a86f@a975.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220727T090000Z
-DTSTART:20220727T080000Z
-SUMMARY:Advanced Surf Plus
-UID:1df6e92b-f181-4fea-8825-dce6ec6ea5c3@1df6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220618T080000Z
-DTSTART:20220618T070000Z
-SUMMARY:Expert Barrels
-UID:55e1c425-6dbb-4656-a95c-fa8ba16f5a41@55e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220615T110000Z
-DTSTART:20220615T100000Z
-SUMMARY:Advance Surf
-UID:32efe7da-10fd-4948-b031-63f002bcb64e@32ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220630T080000Z
-DTSTART:20220630T070000Z
-SUMMARY:Advanced Surf Plus
-UID:ddb24702-01c6-4943-932f-c68e2ee84622@ddb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220622T090000Z
-DTSTART:20220622T080000Z
-SUMMARY:Advanced Surf Plus
-UID:eef6c170-ec58-4c3a-a369-71fe2ae56b3c@eef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220617T090000Z
-DTSTART:20220617T080000Z
-SUMMARY:Advanced Surf Plus
-UID:f7981cc6-280a-4ce0-adf5-4d2bc17c1310@f798.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220712T090000Z
-DTSTART:20220712T080000Z
-SUMMARY:Advanced Surf Plus
-UID:08302355-b35b-4dcb-b596-d3cdea7e9fc7@0830.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220624T090000Z
-DTSTART:20220624T080000Z
-SUMMARY:Advanced Surf Plus
-UID:8c3ad07d-8145-4e6f-b380-1c42c632a38f@8c3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220628T110000Z
-DTSTART:20220628T100000Z
-SUMMARY:Advance Surf
-UID:e325e866-7b49-4cd1-844a-9338935d8f91@e325.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
 DTEND:20220616T080000Z
 DTSTART:20220616T070000Z
-SUMMARY:Advanced Surf Plus
-UID:4440249d-6bad-4a25-b3c4-55e2c7176fe0@4440.org
+SUMMARY:Expert Barrels
+UID:ab14b8df-f420-4b9c-b568-e6b764112ea5@ab14.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220627T080000Z
-DTSTART:20220627T070000Z
+DTEND:20220630T100000Z
+DTSTART:20220630T090000Z
 SUMMARY:Expert Turns
-UID:5e72d0c3-b7a3-4d7b-889c-f6b5130fc491@5e72.org
+UID:615cb247-2f40-497b-b209-cba494ce3c99@615c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220706T080000Z
-DTSTART:20220706T070000Z
-SUMMARY:Advanced Surf Plus
-UID:bcb08370-cbf2-4ae1-b30b-174b28eb8228@bcb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220624T080000Z
-DTSTART:20220624T070000Z
-SUMMARY:Expert Barrels
-UID:3f040844-48fb-4bed-9589-1e4990350b29@3f04.org
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220618T080000Z
+DTSTART:20220618T070000Z
+SUMMARY:Advance Surf
+UID:47a5d805-07f1-4db1-a320-f135f226ead6@47a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220623T110000Z
-DTSTART:20220623T100000Z
+DTEND:20220621T080000Z
+DTSTART:20220621T070000Z
 SUMMARY:Expert Barrels
-UID:7836591b-bea8-401a-b4ed-97e7e456547a@7836.org
+UID:9f125ac9-3941-47b7-b361-569e8d4af861@9f12.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220627T080000Z
-DTSTART:20220627T070000Z
+DTEND:20220630T100000Z
+DTSTART:20220630T090000Z
 SUMMARY:Expert Turns
-UID:41e8e912-be79-4543-9773-7bb7e66ada81@41e8.org
+UID:7dc373ca-33bc-467a-93a0-8abd52a217fa@7dc3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220615T090000Z
-DTSTART:20220615T080000Z
+DTEND:20220617T080000Z
+DTSTART:20220617T070000Z
 SUMMARY:Advanced Surf Plus
-UID:29ad0002-45aa-483a-a360-97b245843c35@29ad.org
+UID:cdbdf02c-eeb3-4dab-b322-f26b261ef326@cdbd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220629T080000Z
+DTSTART:20220629T070000Z
+SUMMARY:Advanced Surf Plus
+UID:8622c64c-7b95-43bb-b7d9-bd12ad343294@8622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220624T070000Z
+DTSTART:20220624T060000Z
+SUMMARY:Expert Barrels
+UID:46e2d88b-b4cf-4290-9016-8a11ad86bde0@46e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220623T010000Z
+DTSTART:20220623T000000Z
+SUMMARY:Advance Surf
+UID:f183ba53-8f6d-4374-a402-8c0dc7d5ceb8@f183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220629T070000Z
+DTSTART:20220629T060000Z
+SUMMARY:Expert Turns
+UID:05b85d60-e6a2-4898-b6f7-fff1c7c7ca73@05b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220621T100000Z
+DTSTART:20220621T090000Z
+SUMMARY:Advance Surf
+UID:96628f12-9a64-40cb-a049-113356cca4dc@9662.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220617T080000Z
+DTSTART:20220617T070000Z
+SUMMARY:Advance Surf
+UID:521a7301-8056-4933-8dec-ba7069438803@521a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220619T070000Z
+DTSTART:20220619T060000Z
+SUMMARY:Expert Turns
+UID:f3ea8f3b-3648-4b9b-ac25-6d4b8cb83b83@f3ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
 DTEND:20220628T080000Z
 DTSTART:20220628T070000Z
-SUMMARY:Advanced Surf Plus
-UID:81d82a8f-17ca-475f-b8b6-ed34af97eb5c@81d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220714T080000Z
-DTSTART:20220714T070000Z
-SUMMARY:Advanced Surf Plus
-UID:6f5f5cdd-14fc-4493-bdde-b57e2024c764@6f5f.org
+SUMMARY:Expert Turns
+UID:3ff1ae4e-4ce5-43d6-ac7d-7a11bf05b21b@3ff1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220623T020000Z
-DTSTART:20220623T010000Z
+DTEND:20220627T100000Z
+DTSTART:20220627T090000Z
 SUMMARY:Advance Surf
-UID:d8ff2f8c-b7ff-4b21-b0ac-4d28a7d33be9@d8ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220629T110000Z
-DTSTART:20220629T100000Z
-SUMMARY:Advance Surf
-UID:cc15ba38-288d-496f-afc6-20ca66939b29@cc15.org
+UID:c3b7481c-e4ac-4028-ae65-d879b46f8729@c3b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220630T090000Z
-DTSTART:20220630T080000Z
+DTEND:20220630T080000Z
+DTSTART:20220630T070000Z
 SUMMARY:Expert Barrels
-UID:f40148bd-e57c-409c-82fc-305f0b6f0cf2@f401.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220624T080000Z
-DTSTART:20220624T070000Z
-SUMMARY:Expert Barrels
-UID:d8c1268d-97cc-43a1-a538-8d27f6eeb891@d8c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220630T020000Z
-DTSTART:20220630T010000Z
-SUMMARY:Advance Surf
-UID:4a3226d0-ca30-42e5-944a-d834d302bdd3@4a32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220621T090000Z
-DTSTART:20220621T080000Z
-SUMMARY:Expert Barrels
-UID:1d07553f-70f4-4c66-b746-f3596052957f@1d07.org
+UID:d33aa15e-5a3c-4c8f-a60b-51fcb5dd9b96@d33a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
-DTEND:20220630T110000Z
-DTSTART:20220630T100000Z
+DTEND:20220614T080000Z
+DTSTART:20220614T070000Z
 SUMMARY:Expert Turns
-UID:035210c3-8846-4de2-902f-002026752732@0352.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220616T020000Z
-DTSTART:20220616T010000Z
-SUMMARY:Advance Surf
-UID:ccfac07e-36f2-4208-94b3-41abd7b716b1@ccfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220722T090000Z
-DTSTART:20220722T080000Z
-SUMMARY:Advanced Surf Plus
-UID:3e241173-37c7-47a0-9f2f-7f8748464510@3e24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220615T090000Z
-DTSTART:20220615T080000Z
-SUMMARY:Advanced Surf Plus
-UID:3adc437e-fa94-40ac-a59b-ed3df5973cdc@3adc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220622T110000Z
-DTSTART:20220622T100000Z
-SUMMARY:Advance Surf
-UID:0c224a13-0c22-4515-84b9-c1bd4437ec6d@0c22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
-DTEND:20220723T080000Z
-DTSTART:20220723T070000Z
-SUMMARY:Advanced Surf Plus
-UID:7df4690e-80b2-48c2-b8ad-21eb6092e34a@7df4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220618T090000Z
-DTSTART:20220618T080000Z
-SUMMARY:Advance Surf
-UID:0d182c4c-8ae7-40b4-839b-13c26031052a@0d18.org
+UID:fb90734c-58cd-4f53-a791-36ef23813b5a@fb90.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
-DTEND:20220626T080000Z
-DTSTART:20220626T070000Z
+DTEND:20220619T070000Z
+DTSTART:20220619T060000Z
 SUMMARY:Expert Barrels
-UID:954c888b-d5e3-40ad-a4cc-12b769844bbf@954c.org
+UID:881bc66b-de2e-4ac2-883d-12727ab276b5@881b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A range of open-faced waves\, both right and left.
-DTEND:20220617T090000Z
-DTSTART:20220617T080000Z
+DTEND:20220627T100000Z
+DTSTART:20220627T090000Z
 SUMMARY:Advance Surf
-UID:0b180ada-034d-4741-a82c-72c99a327a00@0b18.org
+UID:ec462253-ce09-42a8-a236-76909b0a1320@ec46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220620T070000Z
+DTSTART:20220620T060000Z
+SUMMARY:Expert Barrels
+UID:00a82dee-54ae-460c-886b-dafc6e39bdd2@00a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220620T080000Z
+DTSTART:20220620T070000Z
+SUMMARY:Advanced Surf Plus
+UID:445a3835-b8c5-4093-a631-75a35b2c0372@445a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220619T090000Z
+DTSTART:20220619T080000Z
+SUMMARY:Advance Surf
+UID:59128c04-d99c-4bb3-8402-a92867619e1f@5912.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220628T080000Z
+DTSTART:20220628T070000Z
+SUMMARY:Expert Turns
+UID:39e82aac-9723-4ef8-b62c-9eae3713b253@39e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220621T070000Z
+DTSTART:20220621T060000Z
+SUMMARY:Advanced Surf Plus
+UID:454b19b3-3157-47f1-b7ca-672cf78359b2@454b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220625T080000Z
+DTSTART:20220625T070000Z
+SUMMARY:Advance Surf
+UID:ea0983c3-e790-47cc-a19f-e89976d64228@ea09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220622T100000Z
+DTSTART:20220622T090000Z
+SUMMARY:Advance Surf
+UID:88b50163-d705-440e-a3b6-47d76dee77d0@88b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220630T010000Z
+DTSTART:20220630T000000Z
+SUMMARY:Advance Surf
+UID:03d671f7-2d05-4dd8-92d5-7646a75ebfd1@03d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220623T100000Z
+DTSTART:20220623T090000Z
+SUMMARY:Expert Barrels
+UID:c016d0ce-3512-4a46-8bfa-0a18d3bb1474@c016.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220616T100000Z
+DTSTART:20220616T090000Z
+SUMMARY:Expert Turns
+UID:99da8e8e-f643-4572-b450-08ae8dadd678@99da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220627T070000Z
+DTSTART:20220627T060000Z
+SUMMARY:Expert Turns
+UID:30d6c2a9-f0c2-4aa0-b09f-445c4946a952@30d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220622T070000Z
+DTSTART:20220622T060000Z
+SUMMARY:Expert Turns
+UID:c690f114-0fcd-4a7a-97da-d46a07fe1148@c690.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220625T070000Z
+DTSTART:20220625T060000Z
+SUMMARY:Expert Turns
+UID:be24793a-6d27-4492-ad00-edafb321a312@be24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220622T070000Z
+DTSTART:20220622T060000Z
+SUMMARY:Expert Turns
+UID:414cf39d-3ec6-467d-bee2-13cc57326bcd@414c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220617T080000Z
+DTSTART:20220617T070000Z
+SUMMARY:Advance Surf
+UID:5581d9be-5950-4cd7-a56b-9790f183415b@5581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220627T080000Z
+DTSTART:20220627T070000Z
+SUMMARY:Expert Barrels
+UID:765e8823-cd19-4f93-9d5f-429083307a7d@765e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220616T080000Z
+DTSTART:20220616T070000Z
+SUMMARY:Expert Barrels
+UID:137e24cd-3b10-403a-b681-a6452682c179@137e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220627T080000Z
+DTSTART:20220627T070000Z
+SUMMARY:Advanced Surf Plus
+UID:d8213a15-3694-4087-bb79-8c8cbba816e3@d821.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220629T080000Z
+DTSTART:20220629T070000Z
+SUMMARY:Advanced Surf Plus
+UID:5de798c3-6567-471a-a0ba-2f3a2cb9e2f5@5de7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220615T070000Z
+DTSTART:20220615T060000Z
+SUMMARY:Expert Barrels
+UID:edf20146-99b9-4f80-8c40-4b84faec953f@edf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220615T070000Z
+DTSTART:20220615T060000Z
+SUMMARY:Expert Barrels
+UID:69df1b0f-8e4a-4596-96ab-d863b7ed417d@69df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220620T080000Z
+DTSTART:20220620T070000Z
+SUMMARY:Expert Turns
+UID:04b2aa93-408e-4816-a87b-50105ce2c46d@04b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220618T070000Z
+DTSTART:20220618T060000Z
+SUMMARY:Expert Barrels
+UID:140650a6-6f56-49ca-95a1-8288acf31727@1406.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220620T070000Z
+DTSTART:20220620T060000Z
+SUMMARY:Expert Barrels
+UID:1895558b-42e2-4e16-81ac-17fb3142d306@1895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220627T100000Z
+DTSTART:20220627T090000Z
+SUMMARY:Advance Surf
+UID:0b308859-4022-483e-8428-5fb8891f0cf1@0b30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220624T080000Z
+DTSTART:20220624T070000Z
+SUMMARY:Advanced Surf Plus
+UID:281d3d03-a534-491f-942f-e648aa5274f4@281d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220630T070000Z
+DTSTART:20220630T060000Z
+SUMMARY:Advanced Surf Plus
+UID:ca3331b3-fdb6-4749-a02c-24e0d4b1e3c9@ca33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220621T070000Z
+DTSTART:20220621T060000Z
+SUMMARY:Advanced Surf Plus
+UID:07ad1ebe-bf83-45c8-b872-3ce0fb8d7373@07ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220624T080000Z
+DTSTART:20220624T070000Z
+SUMMARY:Advance Surf
+UID:a3c1beb3-5d3a-4709-a179-c7a48f8652ab@a3c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220630T010000Z
+DTSTART:20220630T000000Z
+SUMMARY:Advance Surf
+UID:46f130db-1c6c-4b10-b9f6-d68e0ef4433c@46f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220615T080000Z
+DTSTART:20220615T070000Z
+SUMMARY:Advanced Surf Plus
+UID:4a18d22d-0999-4df7-bd26-3e8a815fa871@4a18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220615T100000Z
+DTSTART:20220615T090000Z
+SUMMARY:Advance Surf
+UID:693108f2-5f97-4130-8107-8434c304e566@6931.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220622T100000Z
+DTSTART:20220622T090000Z
+SUMMARY:Advance Surf
+UID:2360deba-2047-46bd-8b67-7d65395b9b67@2360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220624T080000Z
+DTSTART:20220624T070000Z
+SUMMARY:Advanced Surf Plus
+UID:8bd49401-610a-4662-ad28-08e4d2228a55@8bd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220621T100000Z
+DTSTART:20220621T090000Z
+SUMMARY:Advance Surf
+UID:8db1f55d-197d-40d5-9a80-47ef14a99e74@8db1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220624T080000Z
+DTSTART:20220624T070000Z
+SUMMARY:Advanced Surf Plus
+UID:136e02c9-380e-4179-a9f2-8dfadf5cb72d@136e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220615T080000Z
+DTSTART:20220615T070000Z
+SUMMARY:Advanced Surf Plus
+UID:9191e751-0ad9-46a6-aede-cabcb11b302c@9191.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220630T100000Z
+DTSTART:20220630T090000Z
+SUMMARY:Expert Turns
+UID:2af8f7dc-91d5-438d-b152-df4c8f3b962e@2af8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220620T100000Z
+DTSTART:20220620T090000Z
+SUMMARY:Advance Surf
+UID:76e766c8-7154-4f9f-acdb-9c155d18aae1@76e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220626T070000Z
+DTSTART:20220626T060000Z
+SUMMARY:Advanced Surf Plus
+UID:064fad38-edf7-472e-bf42-0fa06b8f7c5f@064f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220623T070000Z
+DTSTART:20220623T060000Z
+SUMMARY:Advanced Surf Plus
+UID:2255f77b-80ca-489c-bf74-f33f66d72d21@2255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220614T080000Z
+DTSTART:20220614T070000Z
+SUMMARY:Expert Turns
+UID:d4003c65-4838-47da-bf89-3541f34fd5b1@d400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220626T090000Z
+DTSTART:20220626T080000Z
+SUMMARY:Advance Surf
+UID:3dc305c2-0750-47c7-8944-f752a2736bfc@3dc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220622T100000Z
+DTSTART:20220622T090000Z
+SUMMARY:Advance Surf
+UID:31a3fad3-b488-45d8-94f1-677da4036a51@31a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220626T070000Z
+DTSTART:20220626T060000Z
+SUMMARY:Expert Barrels
+UID:7589a118-5883-4d47-bb22-f19478dd9ee3@7589.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220620T080000Z
+DTSTART:20220620T070000Z
+SUMMARY:Expert Turns
+UID:51931e17-f996-43b2-9504-86e9b3c6b555@5193.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220624T080000Z
+DTSTART:20220624T070000Z
+SUMMARY:Advance Surf
+UID:ff6b65a4-70b7-4a71-8d43-70dda69e20d2@ff6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220617T070000Z
+DTSTART:20220617T060000Z
+SUMMARY:Expert Turns
+UID:a4f6928d-92b7-4b17-ba7f-84b8846a2952@a4f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220620T080000Z
+DTSTART:20220620T070000Z
+SUMMARY:Expert Turns
+UID:6b243677-0fdc-4e6f-9005-059af336e7ae@6b24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220625T070000Z
+DTSTART:20220625T060000Z
+SUMMARY:Expert Turns
+UID:167f1802-743b-44fa-92a0-d52584aa7127@167f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220625T080000Z
+DTSTART:20220625T070000Z
+SUMMARY:Advance Surf
+UID:078298b4-5e9b-4441-9958-33c3e1148b36@0782.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220619T090000Z
+DTSTART:20220619T080000Z
+SUMMARY:Advance Surf
+UID:34be12ea-fed7-4ec4-a0f3-fef14973234c@34be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220629T100000Z
+DTSTART:20220629T090000Z
+SUMMARY:Advance Surf
+UID:66ed57e2-c41e-4851-a03a-2a575ffa69a5@66ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220615T100000Z
+DTSTART:20220615T090000Z
+SUMMARY:Advance Surf
+UID:982a106b-6850-422b-9df6-7ff971157753@982a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220619T070000Z
+DTSTART:20220619T060000Z
+SUMMARY:Expert Barrels
+UID:12f5f3cf-a177-4336-a52c-b0785a7c5bae@12f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220614T070000Z
+DTSTART:20220614T060000Z
+SUMMARY:Advanced Surf Plus
+UID:26b88de0-7d06-4b83-a9b9-79894e8ef41c@26b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220629T070000Z
+DTSTART:20220629T060000Z
+SUMMARY:Expert Turns
+UID:ba686842-ce26-4aa0-9047-35f01a450656@ba68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220628T070000Z
+DTSTART:20220628T060000Z
+SUMMARY:Advanced Surf Plus
+UID:945b3279-339b-4802-af87-418216d2a1bf@945b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220621T070000Z
+DTSTART:20220621T060000Z
+SUMMARY:Advanced Surf Plus
+UID:75620ff0-c039-44fd-9243-0aff3908040d@7562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220623T080000Z
+DTSTART:20220623T070000Z
+SUMMARY:Expert Turns
+UID:0d95d727-0353-43dc-a92c-14007cb3ea5d@0d95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220618T070000Z
+DTSTART:20220618T060000Z
+SUMMARY:Expert Barrels
+UID:e37c8c55-2060-4340-92eb-89317ff87c1e@e37c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220627T080000Z
+DTSTART:20220627T070000Z
+SUMMARY:Expert Barrels
+UID:8f773eac-552e-442c-8b81-55433c35fb93@8f77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220616T070000Z
+DTSTART:20220616T060000Z
+SUMMARY:Advanced Surf Plus
+UID:af81deda-bd21-4e0c-967d-c46c279e0103@af81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220617T070000Z
+DTSTART:20220617T060000Z
+SUMMARY:Expert Turns
+UID:d6e50031-a7e6-449e-93dd-0681cbe82da1@d6e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220614T100000Z
+DTSTART:20220614T090000Z
+SUMMARY:Advance Surf
+UID:5250cd66-359f-4b95-99ac-6803e088a429@5250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220624T080000Z
+DTSTART:20220624T070000Z
+SUMMARY:Advance Surf
+UID:ee52985a-6c43-47bd-b1ea-645bb1a38e5b@ee52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220616T080000Z
+DTSTART:20220616T070000Z
+SUMMARY:Expert Barrels
+UID:92a1b4da-2e72-4eb2-8424-c707af5f05ec@92a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220616T100000Z
+DTSTART:20220616T090000Z
+SUMMARY:Expert Turns
+UID:b19cbc19-2418-48a0-9d55-0918d708b6da@b19c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220614T070000Z
+DTSTART:20220614T060000Z
+SUMMARY:Advanced Surf Plus
+UID:51fa75e7-2636-4f9d-bcf7-94c4b9a69ccd@51fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220626T090000Z
+DTSTART:20220626T080000Z
+SUMMARY:Advance Surf
+UID:600d878a-7d63-451d-bc45-478b150369ad@600d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220626T070000Z
+DTSTART:20220626T060000Z
+SUMMARY:Advanced Surf Plus
+UID:f6c1a61b-3970-4985-808a-9325129875b4@f6c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220626T090000Z
+DTSTART:20220626T080000Z
+SUMMARY:Advance Surf
+UID:fdfd4457-3eb9-481d-97fd-d5a8d7367377@fdfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220623T070000Z
+DTSTART:20220623T060000Z
+SUMMARY:Advanced Surf Plus
+UID:d379731b-8d94-4158-b82a-00efdca22473@d379.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220616T070000Z
+DTSTART:20220616T060000Z
+SUMMARY:Advanced Surf Plus
+UID:4b75349f-da02-46ef-b246-b065ad922eb0@4b75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220614T070000Z
+DTSTART:20220614T060000Z
+SUMMARY:Advanced Surf Plus
+UID:51d3924f-56eb-4b91-9d75-97ea5b02b7cd@51d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220628T100000Z
+DTSTART:20220628T090000Z
+SUMMARY:Advance Surf
+UID:7e9cf78d-774e-4d26-b69f-2c0d67dfe153@7e9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A range of open-faced waves\, both right and left.
+DTEND:20220620T100000Z
+DTSTART:20220620T090000Z
+SUMMARY:Advance Surf
+UID:58a7dff9-b204-426d-b904-39040288299e@58a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220622T070000Z
+DTSTART:20220622T060000Z
+SUMMARY:Expert Turns
+UID:dc88eccd-9877-4094-ae6e-16ee821e1776@dc88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220628T080000Z
+DTSTART:20220628T070000Z
+SUMMARY:Expert Turns
+UID:3ef15f0b-9e9a-42b7-b5be-2d06af93d174@3ef1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A full faced wave on take off\, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun\, open face to manoeuvre.
+DTEND:20220620T080000Z
+DTSTART:20220620T070000Z
+SUMMARY:Advanced Surf Plus
+UID:69239a18-5cf1-4ee4-8702-86da301ab9ac@6923.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A whole session dedicated to our most popular barrel setting. Powerful waves with consistent\, fun to navigate barrels
+DTEND:20220619T070000Z
+DTSTART:20220619T060000Z
+SUMMARY:Expert Barrels
+UID:7129052d-b1ba-4ff7-a2cf-8f5828e515a8@7129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A fast and challenging session\, full of our most powerful turning waves\, to test your performance turns
+DTEND:20220614T080000Z
+DTSTART:20220614T070000Z
+SUMMARY:Expert Turns
+UID:0084e84b-36a8-40cc-bd87-e81ae7b17e3e@0084.org
 END:VEVENT
 END:VCALENDAR

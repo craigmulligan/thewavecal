@@ -1,4 +1,5 @@
 from datetime import datetime, timezone
+local_timezone = datetime.now(timezone.utc).astimezone().tzinfo
 
 async def get_data(browser, url):
     """
@@ -29,7 +30,7 @@ async def get_data(browser, url):
                 time_input = await time.querySelector("input[type='submit']")
                 t = await page.evaluate('(element) => element.getAttribute("value")', time_input)
                 dt = datetime.strptime(f"{date} {t}", FORMAT)
-                dt = dt.replace(tzinfo=timezone.utc)
+                dt = dt.astimezone(timezone.utc)
                 events.append(
                     dt,
                 )
