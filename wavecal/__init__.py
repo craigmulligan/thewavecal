@@ -1,5 +1,5 @@
 from datetime import datetime, timezone
-local_timezone = datetime.now(timezone.utc).astimezone().tzinfo
+from time import sleep
 
 async def get_data(browser, url):
     """
@@ -7,7 +7,7 @@ async def get_data(browser, url):
             data-generaladmission="false" data-totalavailable="24">
 
     """
-    FORMAT = '%m/%d/%Y %H:%M %p'
+    FORMAT = '%m/%d/%Y %I:%M %p'
 
     print("getting page")
     page = await browser.newPage()
@@ -19,17 +19,21 @@ async def get_data(browser, url):
             datepicker = await page.querySelector(".datepicker")
             elem = await datepicker.querySelector(".next")
             await elem.click()
+            print("loaded next page.")
+            sleep(.5)
 
         cal = await page.querySelector("#calendar-dp") 
         days = await cal.querySelectorAll(".daybox")
         for day in days:
             date = await page.evaluate('(element) => element.getAttribute("data-day")', day)
-            times = await day.querySelectorAll(".calendar-time")
+            times = await day.querySelectorAll(".calendar-time__item")
 
             for time in times:
                 time_input = await time.querySelector("input[type='submit']")
                 t = await page.evaluate('(element) => element.getAttribute("value")', time_input)
-                dt = datetime.strptime(f"{date} {t}", FORMAT)
+                t_input = f"{date} {t}"
+                print(t_input)
+                dt = datetime.strptime(t_input, FORMAT)
                 dt = dt.astimezone(timezone.utc)
                 events.append(
                     dt,

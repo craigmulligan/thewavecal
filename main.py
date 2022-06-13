@@ -9,9 +9,9 @@ async def main():
     host = "https://bookings.thewave.com/twb_b2c/" 
     browser = await launch(headless=False, args=['--no-sandbox'])
     event_types = [
-            # {"name": "Expert Barrels", "description": "A whole session dedicated to our most popular barrel setting. Powerful waves with consistent, fun to navigate barrels", "path": "genericevent.html?event=TWB.EVN17"},
-            # {"name": "Expert Turns", "description": "A fast and challenging session, full of our most powerful turning waves, to test your performance turns", "path": "genericevent.html?event=TWB.EVN10" },
-            # {"name": "Advanced Surf Plus", "description": "A full faced wave on take off, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun, open face to manoeuvre.", "path": "lessonpool.html"},
+            {"name": "Expert Barrels", "description": "A whole session dedicated to our most popular barrel setting. Powerful waves with consistent, fun to navigate barrels", "path": "genericevent.html?event=TWB.EVN17"},
+            {"name": "Expert Turns", "description": "A fast and challenging session, full of our most powerful turning waves, to test your performance turns", "path": "genericevent.html?event=TWB.EVN10" },
+            {"name": "Advanced Surf Plus", "description": "A full faced wave on take off, which holds good shape and size all the way down the line. Its inside barrel section is easy to pre-empt and stays open with a fun, open face to manoeuvre.", "path": "lessonpool.html"},
             {"name": "Advance Surf", "description": "A range of open-faced waves, both right and left.", "path": "advanced.html"}
     ]
 
