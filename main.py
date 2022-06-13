@@ -29,7 +29,7 @@ async def main():
     print(f"generated {len(cal.events)} events")
 
     print(cal.events)
-    with open('thewavecal.ics', 'w') as f:
+    with open('cal.ics', 'w') as f:
         f.write(str(cal))
 
     await browser.close()
